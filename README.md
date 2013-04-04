@@ -10,6 +10,7 @@ download it and extract to extension dir (or any other directory ), then  in you
 $this->widget('ext.widgets.jswitchable.JSwitchable', array(
 ));
 ?>
+more  example please refer here [jquery.switchable home ](http://switchable.mrzhang.me/) and [jquery.switchable on github ](https://github.com/jsw0528/jQuery.Switchable)
 
 
 ## Basic Markup Structure
